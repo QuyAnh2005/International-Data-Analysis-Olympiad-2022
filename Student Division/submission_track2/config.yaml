@@ -1,0 +1,9 @@
+datapath: './data/dichalcogenides_public'
+test_datapath: './data/dichalcogenides_private'
+checkpoint_path: './callback/val_mae_01836_0.006328.hdf5'
+
+model:
+  epochs: 2000
+  batch_size: 128
+  lr: 1e-4
+  cutoff: 4
