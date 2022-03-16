@@ -97,5 +97,5 @@ At the end of the phase, we can get a file continuing to train model for next ph
     prev_model = 'val_mae_01700_0.008908.hdf5'
 ```
 
-At the end of the phase, we can get a file continuing to train model for next phase as `val_mae_01407_0.018234.hdf5` and
+At the end of the phase, we can get a file continuing to train model for next phase as `val_mae_01853_0.006297` and
 `energy_within_threshold` is approximately `0.92`. Callback of this phase is [here](https://drive.google.com/drive/folders/1JQyu23kYSk626zFoPPNhrb3dLI-vt7jx?usp=sharing).
