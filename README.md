@@ -26,7 +26,7 @@ Machine Learning Bootcamp is organized to prepare for official competition IDAO2
 - Task:
   - Predict sleep disorder on given human health data
 
-### [Qualification Phase](https://github.com/QuyAnh2005/International-Data-Analysis-Olympiad-2022/tree/main/Student%20Division)
+### [Qualification Phase - St](https://github.com/QuyAnh2005/International-Data-Analysis-Olympiad-2022/tree/main/Student%20Division)
 There are two separate tracks during the online stage. From the machine learning perspective, the tracks will be similar, 
 yet the restrictions put on the solutions are different for each track.
 
