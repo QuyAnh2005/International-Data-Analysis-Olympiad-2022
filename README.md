@@ -1,5 +1,5 @@
 # International Data Analysis Olympiad 2022
-This repository contains some materials and my solution in IDAO 2022.
+This repository contains some materials and my solution in [IDAO 2022](https://idao.world/).
 
 *"Higher School of Economics and Yandex are proud to announce the 5th International Data Analysis Olympiad. Since it’s our 
 first anniversary, we decided to change the format: this year we divide students and ML specialists into two separate 
